@@ -1,8 +1,4 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -151,7 +147,7 @@ header {
     margin: -1px;
     padding: 0;
     border: 0;
-    clip: rect(0, 0, 0, 0);
+    clip: rect(0 0 0 0);
     overflow: hidden;
     white-space: nowrap;
     clip-path: inset(100%);
