@@ -151,10 +151,10 @@ header {
     margin: -1px;
     padding: 0;
     border: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
     clip: rect(0, 0, 0, 0);
     overflow: hidden;
+    white-space: nowrap;
+    clip-path: inset(100%);
   }
  .features {
   padding: 120 px 0;
